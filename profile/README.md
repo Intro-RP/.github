@@ -37,6 +37,6 @@ Contributions to Outro RP, whether through code, storylines, or community events
 
 ## Contact Us 📧
 
-Got questions or suggestions? Join our Discord server [here](#) to engage with the community and the server's administration team.
+Got questions or suggestions? Join our Discord server [https://discord.gg/outro](https://discord.gg/outro) to engage with the community and the server's administration team.
 
 Let's embark on this transitional journey together, weaving the tales of GTA V's conclusion into the excitement of the upcoming GTA VI RP! 🌟🎉
