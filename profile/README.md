@@ -20,12 +20,12 @@ To join the Outro RP server, you'll need:
 
 - GTA V on PC 🖥️
 - FiveM Client (Add any specific requirements or mods relevant to your server)
-- Whitelisting through [Outro RP's website](https://outrorp.com) 📝
+- Whitelisting through [Outro RP's website](https://outro-rp.com) 📝
 
 ### Installation 🎮
 
 1. Download and install the FiveM client from [FiveM.net](https://fivem.net/)
-2. Visit [https://outrorp.com](https://outrorp.com) to whitelist and gain server access.
+2. Visit [https://outro-rp.com](https://outro-rp.com) to whitelist and gain server access.
 3. Launch FiveM, search for "Outro RP" in the server list, and join the journey!
 
 ## Contributing 🤝
