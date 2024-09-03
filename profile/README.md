@@ -1,10 +1,10 @@
-# Outro RP - Bridging GTA V and Anticipating GTA VI RP 🚗🎮
+# Intro - Bridging GTA V and Anticipating GTA VI RP 🚗🎮
 
-Welcome to Outro RP, the immersive role-playing server designed to mark the transition from the conclusion of GTA V RP to the anticipation of GTA VI RP (upon its release). 
+Welcome to Intro, the immersive role-playing server designed to mark the transition from the conclusion of GTA V RP to the anticipation of GTA VI RP (upon its release). 
 
-## About Outro RP 🌟
+## About Intro 🌟
 
-Outro RP is an engaging experience tailored to seamlessly lead the community from the closure of GTA V's narratives and adventures into the eagerly awaited world of GTA VI RP.
+Intro is an engaging experience tailored to seamlessly lead the community from the closure of GTA V's narratives and adventures into the eagerly awaited world of GTA VI RP.
 
 ### Features 🌐
 
@@ -16,17 +16,17 @@ Outro RP is an engaging experience tailored to seamlessly lead the community fro
 
 ### Prerequisites 🛠️
 
-To join the Outro RP server, you'll need:
+To join the Intro server, you'll need:
 
 - GTA V on PC 🖥️
 - FiveM Client (Add any specific requirements or mods relevant to your server)
-- Whitelisting through [Outro RP's website](https://outro-rp.com) 📝
+- Whitelisting through [Intro's discord](https://discord.gg/introrp) 📝
 
 ### Installation 🎮
 
 1. Download and install the FiveM client from [FiveM.net](https://fivem.net/)
-2. Visit [https://outro-rp.com](https://outro-rp.com) to whitelist and gain server access.
-3. Launch FiveM, search for "Outro RP" in the server list, and join the journey!
+2. Visit [https://intro.ovh](https://intro.ovh) to whitelist and gain server access.
+3. Launch FiveM, search for "Intro" in the server list, and join the journey!
 
 ## Contributing 🤝
 
@@ -37,6 +37,6 @@ Contributions to Outro RP, whether through code, storylines, or community events
 
 ## Contact Us 📧
 
-Got questions or suggestions? Join our Discord server [https://discord.gg/outro](https://discord.gg/outro) to engage with the community and the server's administration team.
+Got questions or suggestions? Join our Discord server [https://discord.gg/intro](https://discord.gg/intro) to engage with the community and the server's administration team.
 
 Let's embark on this transitional journey together, weaving the tales of GTA V's conclusion into the excitement of the upcoming GTA VI RP! 🌟🎉
